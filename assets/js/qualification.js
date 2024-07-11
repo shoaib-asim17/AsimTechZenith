@@ -32,7 +32,7 @@ const qualifications = [
     {
         title: "Secondary School Certificate",
         year: 2019,
-        description: "Achieved two years higher secondary degree from Science major from a reputed college.",
+        description: "Completed my Secondary School Certificate (SSC) with a GPA of 9.7, emphasizing foundational academic excellence and dedication to learning.",
         institute: {
             name: "Jeevadan High School",
             shortName: "JHS",
