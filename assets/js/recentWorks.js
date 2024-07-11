@@ -5,7 +5,7 @@ const recentWorks = [
         title: "Personal Portfolio",
         description: "Professional page for personal portfolio showcase.",
         techs: ["Tailwind", "JS", "Vite"],
-        img: "/images/landpage_shFolio.png",
+        img: "/images/shoaibPortfolio.jpeg",
         link: "https://github.com/shoaib-asim17/AsimTechZenith"
     },
     {
