@@ -2,6 +2,13 @@
 
 const recentWorks = [
     {
+        title: "DAA LAB-Programs",
+        description: "daa programs",
+        techs: ["Java"],
+        img: "/images/shoaibPortfolio.jpeg",
+        link: "https://github.com/shoaib-asim17/DaaPrograms.git"
+    },
+    {
         title: "Personal Portfolio",
         description: "Professional page for personal portfolio showcase.",
         techs: ["Tailwind", "JS", "Vite"],
